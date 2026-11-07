@@ -1,29 +1,35 @@
 # K2040
 
-Mods, apps and tools, with release notes that say what changed.
+I build Android apps, game mods and small tools, and I write fiction.
 
-I'm K2040. I make Fallout 4 mods that stay on game version 1.10.163, Android apps, and small
-development tools.
+The apps are local-first: they work offline and don't need an account. The mods stay on the game
+versions people actually still run. The stories are published and free to read.
 
-## Current projects
+## What I make
 
-- **[Quest Journal](https://github.com/Kamui2040/K2040-FO4-Quest-Journal)** — full-screen and HUD quest
-  journal for Fallout 4 1.10.163, built on F4SE and PrismaUI.
-- **[Quick Attach Menu](https://github.com/Kamui2040/K2040-Quick-Attach-Menu)** — configurable quick
-  attachment menu for Fallout 4.
-- **[Vectorint](https://github.com/Kamui2040/Vectorint)** — Android budgeting app that answers one
-  question: how much can I safely spend now.
+- **Android apps** — [Vectorint](https://github.com/Kamui2040/Vectorint) answers one question: how much
+  can I safely spend now. [Esca Agnellis](https://github.com/Kamui2040/Esca-Agnellis-Android) tracks
+  food without nagging.
+- **Game mods** — [Quest Journal](https://github.com/Kamui2040/K2040-FO4-Quest-Journal) and
+  [Quick Attach Menu](https://github.com/Kamui2040/K2040-Quick-Attach-Menu) for Fallout 4 1.10.163;
+  [addons](https://github.com/Kamui2040/K2040-WotLK-Addons) for World of Warcraft 3.3.5a.
+- **Tools** — small utilities that remove a repetitive job, like the
+  [xEdit JSON exporter](https://github.com/Kamui2040/K2040_xEdit_JSON_Exporter).
+- **Fiction** — [The Library](https://github.com/Kamui2040/The-Library): the published stories, a
+  reader, and release pages.
 
 ## Where things live
 
-- Project hub and news: https://kamui2040.github.io/
-- Game mods: https://kamui2040.github.io/K2040-Gaming-Mods/
+- Everything, with news: https://kamui2040.github.io/
 - Android apps: https://kamui2040.github.io/K2040-Android-Releases/
+- Game mods: https://kamui2040.github.io/K2040-Gaming-Mods/
+- Fiction: https://kamui2040.github.io/The-Library/
 - Support the work: https://ko-fi.com/k2040
 
 ## How I work
 
-- Every release lists what changed, what is still broken, and the game and F4SE version it was tested on.
-- Compatibility limits are written in the README before you install anything.
-- I publish when a build is ready. There is no fixed schedule.
-- Bug reports are easiest to act on with three things: game version, F4SE version, and your load order.
+- Every release lists what changed, what is still broken, and the versions it was tested on.
+- Requirements and known limits are in the project page before you install.
+- I publish when something is ready. There is no fixed schedule.
+- Bug reports are easiest to act on with the version you run, and your load order for mods. I read
+  every one and usually answer within a few days.
