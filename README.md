@@ -23,5 +23,7 @@ development tools.
 
 ## How I work
 
-Release notes list what changed, what is still broken, and which game and F4SE versions a build was
-tested on. Compatibility limits are written down instead of left for you to find the hard way.
+- Every release lists what changed, what is still broken, and the game and F4SE version it was tested on.
+- Compatibility limits are written in the README before you install anything.
+- I publish when a build is ready. There is no fixed schedule.
+- Bug reports are easiest to act on with three things: game version, F4SE version, and your load order.
